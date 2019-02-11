@@ -29,6 +29,13 @@ urlcolor: blue
 
 *Hankuk University of Foreign Studies*, B.A. Political Science \hfill 2017
 
+# Research Interests
+
+Comparative Politics: Local government, Development, Political Parties
+
+Political Methodology: Survival Analysis
+
+International Relations: North Korea's Provocation
 
 # Publications
 
@@ -40,6 +47,9 @@ Woo, Byung-Deuk. 2019. "Why does North Korea Commit Provocations?." *Korean Jour
 
 # Working Papers
 
+Woo, Byung-Deuk. "Diffusion of Laws against Crimes against Women"
+
+Woo, Byung-Deuk. "The Influence of Subnational Political Party System and Party Affiliation on Public Health: A Case od Nigeria"
 
 # Academic Service
 
@@ -47,4 +57,5 @@ Woo, Byung-Deuk. 2019. "Why does North Korea Commit Provocations?." *Korean Jour
 # Professional Training
 
 Casual Inference for the Social Sciences, ICPSR Summer Program, Ahn Arbor, Michigan \hfill 2018
+
 Multilevel Models 2: Advanced Topics, ICPSR Summer Program, Ahn Arbor, Michigan \hfill 2018
