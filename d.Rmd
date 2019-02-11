@@ -27,6 +27,7 @@ urlcolor: blue
 ---
 # Education
   *University of Iowa, Ph.D. program* \hfill 2017-present
+  
   *Hankuk University of Foreign Studies*, B.A. Political Science \hfill 2017
 
 # Research Interests
