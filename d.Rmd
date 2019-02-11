@@ -1,0 +1,50 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: C:\\Users\\woobd1\\Dropbox\\Iowa\\cv\\CV-Byung-Deuk-\\svm-latex-cv.tex
+geometry: margin=1in
+
+title: "CV"
+author: Byung-Deuk Woo
+
+jobtitle: "Graduate Teaching Assistant"
+address: "313 Schaeffer Hall · Department of Political Science · Univeristy of Iowa · Iowa City · Iowa · USA "
+fontawesome: yes
+email: byngdeuk@uiowa.edu
+# github: svmiller
+phone: "+1 319 335 2370"
+web: no
+updated: no
+
+keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+# Education
+
+*Hankuk University of Foreign Studies*, B.A. Political Science \hfill 2017
+
+
+# Publications
+
+Woo, Byung-Deuk. 2019. "Why does North Korea Commit Provocations?." *Korean Journal of Defense Analysis* (Forthcoming)  
+
+# Conference Presentations
+
+"Do More Political Parties Increase the Quality of Democracy?," Southern Political Science Association, Austin, Texas, January 17-19, 2019.
+
+# Working Papers
+
+
+# Academic Service
+
+
+# Professional Training
+
+Casual Inference for the Social Sciences, ICPSR Summer Program, Ahn Arbor, Michigan \hfill 2018
+Multilevel Models 2: Advanced Topics, ICPSR Summer Program, Ahn Arbor, Michigan \hfill 2018
