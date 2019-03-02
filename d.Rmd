@@ -52,6 +52,7 @@ urlcolor: blue
 
   Woo, Byung-Deuk. "The Influence of Subnational Political Party System and Party Affiliation on Public Health: The Case of Nigeria"
 
+
 # Professional Training
 
   Casual Inference for the Social Sciences, ICPSR Summer Program, Ann Arbor, Michigan \hfill 2018
