@@ -40,7 +40,7 @@ urlcolor: blue
 
 # Publications
 
-  Woo, Byung-Deuk. 2019. "Why does North Korea Commit Provocations?" *Korean Journal of Defense Analysis*  (Forthcoming).  
+  Woo, Byung-Deuk. 2019. "Why does North Korea Commit Provocations?" *Korean Journal of Defense Analysis*, Vol.31, No. 1, 43-59.  
 
 # Conference Presentations
 
