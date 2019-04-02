@@ -43,14 +43,17 @@ urlcolor: blue
   Woo, Byung-Deuk. 2019. "Why does North Korea Commit Provocations?" *Korean Journal of Defense Analysis*, Vol.31, No. 1, 43-59.  
 
 # Conference Presentations
+  Woo, Byung-Deuk, "Diffusion after Diffusion: Adoption and Implementation of Laws about Violence Against Women," Midwest Political Science Association, Chicago, Illinois, April 4-7, 2019.
+  
+  Woo, Byung-Deuk & Kim, Si-ae, "The Influence of Subnational Democracy on Public Health: A Case of Nigeria?" Midwest Political Science Association, Chicago, Illinois, April 4-7, 2019.
 
-  "Do More Political Parties Increase the Quality of Democracy?" Southern Political Science Association, Austin, Texas, January 17-19, 2019.
+  Woo, Byung-Deuk, "Do More Political Parties Increase the Quality of Democracy?" Southern Political Science Association, Austin, Texas, January 17-19, 2019.
 
 # Working Papers
 
-  Woo, Byung-Deuk. "Diffusion of Laws against Crimes Against Women"
+  Woo, Byung-Deuk. "Diffusion of Laws About Violence Against Women"
 
-  Woo, Byung-Deuk. "The Influence of Subnational Political Party System and Party Affiliation on Public Health: The Case of Nigeria"
+  Woo, Byung-Deuk. "The Influence of Subnational Political Party System on Public Health: The Case of Nigeria"
 
 
 # Professional Training
@@ -64,3 +67,7 @@ urlcolor: blue
   Member of Midwest Political Science Association
 
   Member of Southern Political Science Association
+  
+# Academic Service
+
+  Discussant, Panel on Governance and Public Administration, Midwest Political Science Association, Chicago, Illinois, April 4-7, 2019.
